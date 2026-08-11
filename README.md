@@ -1,8 +1,12 @@
 ## Václav Novotný
 
-Founder at [Headers](https://headers.cz). Before that seven years as CTO at
-GoPay, a payment provider, where I moved a development team from traditional
-engineering to AI-assisted work.
+Founder at [Headers](https://headers.cz) and part-time CTO at GoPay, a payment
+provider, where I have spent the last seven years.
+
+The work in both places is the same: building AI-native teams. Not bolting an
+assistant onto an existing process, but changing how a team works once agents are
+part of it - what gets written down and where, who checks what, which decisions
+stay with people, and how you tell whether any of it is actually working.
 
 Client work lives in private repositories, so this profile stays quiet. My own
 time goes into a second brain I have been keeping for years, and into the layer
