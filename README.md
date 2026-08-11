@@ -18,9 +18,9 @@ me reads and writes it? That layer is mostly unglamorous. Memory that survives
 between sessions. Task state that is true whether I touched it from the phone or
 an agent touched it at 3am. Notes written during the work instead of after it.
 
-I read whatever is written from practice rather than from a launch - Karpathy
-among others. Interested in agentic workflows, how people actually work with
-these systems, and where the time really goes.
+I read Karpathy and others who write from practice. Interested in agentic
+workflows, how people actually work with these systems, and where the time
+really goes.
 
 Based in České Budějovice, Czech Republic.
 [vaclav.novotny@headers.cz](mailto:vaclav.novotny@headers.cz)
