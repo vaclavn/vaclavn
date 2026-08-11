@@ -5,13 +5,14 @@ GoPay, a payment provider, where I moved a development team from traditional
 engineering to AI-assisted work.
 
 Client work lives in private repositories, so this profile stays quiet. My own
-time goes somewhere else: into the layer around coding agents that decides
-whether one behaves like a toy or like a colleague.
+time goes into a second brain I have been keeping for years, and into the layer
+that now lets an agent work inside it.
 
-That layer is mostly unglamorous. A knowledge base an agent can both read and
-write. Memory that survives between sessions. Task state that is true whether I
-touched it from the phone or the agent touched it at 3am. Notes that get written
-during the work instead of after it.
+The notes came first and would exist either way. Agents only sharpened the
+question: what does a knowledge base have to look like when something other than
+me reads and writes it? That layer is mostly unglamorous. Memory that survives
+between sessions. Task state that is true whether I touched it from the phone or
+an agent touched it at 3am. Notes written during the work instead of after it.
 
 Most of the interesting part turns out to be measurement rather than building:
 
